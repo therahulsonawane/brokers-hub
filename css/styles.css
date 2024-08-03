@@ -427,6 +427,8 @@ body.dark-theme {
 
 .popular__container {
   padding: 1rem 0 5 rem;
+  padding-bottom: 4rem;
+
 }
 
 .popular__card {
